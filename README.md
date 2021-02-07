@@ -2,5 +2,4 @@
 C , C++
 | SL NO. | Particulars | View Code |
 | --- | --- |
-| 1 | String Reverse | |
-|   |                | |
+| 1 | String Reverse |
