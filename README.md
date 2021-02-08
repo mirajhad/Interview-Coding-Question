@@ -3,6 +3,7 @@ C , C++
 | SL NO. |                      Particulars                                              |                   View Code                                                            |
 | ---    |                      ---                                                      |                       ---                                                              |
 | 1      |                      String Reverse                                           |  https://ide.geeksforgeeks.org/z3uWr8u9uc                                              |
+| 2      |                    string lenght without using strlen                         |  https://ide.geeksforgeeks.org/cRK7YUK0yD                                              |
 
 
 ## How to contribute?
