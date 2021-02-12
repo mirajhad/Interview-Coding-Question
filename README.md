@@ -6,6 +6,7 @@ C , C++
 | 2      |                    string lenght without using strlen                         |  https://ide.geeksforgeeks.org/cRK7YUK0yD                                              |
 | 3      |                       factorial using recursion                               |  https://ide.geeksforgeeks.org/zj3Rpq06ok                                              |
 | 4      |                Fibonacci using recursion                                      |   https://ide.geeksforgeeks.org/5cC8rmLqHV                                             |
+| 5      |             No. of Digits in Number                                           |   https://ide.geeksforgeeks.org/T1YefgQMVo                                             |
 
 
 ## How to contribute?
