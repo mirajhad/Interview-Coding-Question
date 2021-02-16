@@ -9,6 +9,7 @@ C , C++
 | 5      |             No. of Digits in Number                                           |   https://ide.geeksforgeeks.org/T1YefgQMVo                                             |
 | 6      |               Armstrong Number                                                |   https://ide.geeksforgeeks.org/x5gzpTYF2j                                             |
 | 7      |               Reverse Number                                                  |   https://ide.geeksforgeeks.org/TYl36pa4bW                                             |
+| 8      |               Factorial                                                       |   https://ide.geeksforgeeks.org/VyFYM05sbP                                             |
 
 
 ## How to contribute?
