@@ -7,7 +7,8 @@ C , C++
 | 3      |                       factorial using recursion                               |  https://ide.geeksforgeeks.org/zj3Rpq06ok                                              |
 | 4      |                Fibonacci using recursion                                      |   https://ide.geeksforgeeks.org/5cC8rmLqHV                                             |
 | 5      |             No. of Digits in Number                                           |   https://ide.geeksforgeeks.org/T1YefgQMVo                                             |
-| 6      |               Armstrong Number                                                |   https://ide.geeksforgeeks.org/x5gzpTYF2j                                             |                    
+| 6      |               Armstrong Number                                                |   https://ide.geeksforgeeks.org/x5gzpTYF2j                                             |
+| 7      |               Reverse Number                                                  |   https://ide.geeksforgeeks.org/TYl36pa4bW                                             |
 
 
 ## How to contribute?
