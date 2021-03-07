@@ -12,6 +12,7 @@ C , C++
 | 8      |               Factorial                                                       |   https://ide.geeksforgeeks.org/VyFYM05sbP                                             |
 | 9      |               Fibonacci Series                                                |   https://ide.geeksforgeeks.org/ZVjBdK4tk8                                             |
 | 10     |               Palindrome number                                               |   https://ide.geeksforgeeks.org/dSkjJHudx8                                             |
+| 11     |               LCM of 2 number                                                 |   https://ide.geeksforgeeks.org/eY3UaZ7Fuy                                             |
 
 
 ## How to contribute?
