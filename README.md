@@ -14,7 +14,7 @@ C , C++
 | 10     |               Palindrome number                                               |   https://ide.geeksforgeeks.org/dSkjJHudx8                                             |
 | 11     |               LCM of 2 number                                                 |   https://ide.geeksforgeeks.org/eY3UaZ7Fuy                                             |
 | 12     |               Prime or not                                                    |   https://ide.geeksforgeeks.org/HO0F5hDIwV                                             |
-
+| 13     |               Hollow rectangle                                                |   https://ide.geeksforgeeks.org/3n908zGiWf                                             |
 ## How to contribute?
 
 1. Fork the repository 
