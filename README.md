@@ -13,7 +13,7 @@ C , C++
 | 9      |               Fibonacci Series                                                |   https://ide.geeksforgeeks.org/ZVjBdK4tk8                                             |
 | 10     |               Palindrome number                                               |   https://ide.geeksforgeeks.org/dSkjJHudx8                                             |
 | 11     |               LCM of 2 number                                                 |   https://ide.geeksforgeeks.org/eY3UaZ7Fuy                                             |
-
+| 12     |               Prime or not                                                    |   https://ide.geeksforgeeks.org/HO0F5hDIwV                                             |
 
 ## How to contribute?
 
